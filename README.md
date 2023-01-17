@@ -2,7 +2,7 @@
 
 **It will automatically converts your JSON data file code into markdown code, but your have to make json file in the proper format**.
 
-[DOCUMENTATION](DOCUMENTATION.md)
+**[DOCUMENTATION](DOCUMENTATION.md)**
 
 ## Installation
 
