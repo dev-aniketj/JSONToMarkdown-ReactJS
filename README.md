@@ -4,6 +4,20 @@
 
 **[DOCUMENTATION](DOCUMENTATION.md)**
 
+## How it is working ??
+
+If you want to convert your JSON file then add the file into the `src/data/your_file.json`
+<br/>
+Go to **`App.js`** and add new item in it _OR_ just change the name of the file with is passed inside the **`createMarkdownFile()`** function.
+<br/>
+
+```
+<div className="item" onClick={() => createMarkdownFile("your_file_name")}>
+  <h3>Title</h3>
+  <h5>File Name</h5>
+</div>
+```
+
 ## Installation
 
 ```sh
