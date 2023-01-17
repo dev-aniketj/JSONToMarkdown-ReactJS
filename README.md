@@ -1,10 +1,6 @@
 # JSON to Markdown
 
-<font color=cyan>
-
 **It will automatically converts your JSON data file code into markdown code, but your have to make json file in the proper format**.
-
-</font>
 
 [DOCUMENTATION](DOCUMENTATION.md)
 
